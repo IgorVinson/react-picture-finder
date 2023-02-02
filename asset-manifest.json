@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/react-picture-finder/static/css/main.073c9b0a.css",
-    "main.js": "/react-picture-finder/static/js/main.58ca6440.js",
+    "main.css": "/react-picture-finder/static/css/main.92a48270.css",
+    "main.js": "/react-picture-finder/static/js/main.9bcce37e.js",
     "static/js/787.1562ea2f.chunk.js": "/react-picture-finder/static/js/787.1562ea2f.chunk.js",
-    "static/media/logo.svg": "/react-picture-finder/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-picture-finder/index.html",
-    "main.073c9b0a.css.map": "/react-picture-finder/static/css/main.073c9b0a.css.map",
-    "main.58ca6440.js.map": "/react-picture-finder/static/js/main.58ca6440.js.map",
+    "main.92a48270.css.map": "/react-picture-finder/static/css/main.92a48270.css.map",
+    "main.9bcce37e.js.map": "/react-picture-finder/static/js/main.9bcce37e.js.map",
     "787.1562ea2f.chunk.js.map": "/react-picture-finder/static/js/787.1562ea2f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.58ca6440.js"
+    "static/css/main.92a48270.css",
+    "static/js/main.9bcce37e.js"
   ]
 }
